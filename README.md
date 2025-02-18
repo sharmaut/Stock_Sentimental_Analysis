@@ -1,1 +1,1 @@
-# Stock_Sentimental_Analysis
+The project aims to analyze market sentiments by collecting and interpreting real-time data from financial news, social media platforms, and stock price movements. The system provided predictive insights to assist in making informed trading decisions. 
